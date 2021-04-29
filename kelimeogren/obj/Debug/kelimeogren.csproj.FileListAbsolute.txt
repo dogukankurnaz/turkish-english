@@ -1,0 +1,11 @@
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\bin\Debug\dbSozluk.accdb
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\bin\Debug\kelimeogren.exe.config
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\bin\Debug\kelimeogren.exe
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\bin\Debug\kelimeogren.pdb
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.csprojAssemblyReference.cache
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.Properties.Resources.resources
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.csproj.GenerateResource.cache
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.csproj.CoreCompileInputs.cache
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.exe
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.pdb
+C:\Users\dogukaN\source\repos\kelimeogren\kelimeogren\obj\Debug\kelimeogren.Form1.resources
